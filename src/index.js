@@ -42,5 +42,5 @@ root.render(
       </Provider>
     </ScrollToTop>
     <Toaster />
-  </BrowserRouter>
+  </BrowserRouter>,
 );

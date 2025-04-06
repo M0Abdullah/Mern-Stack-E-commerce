@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 20,
+      "title": "T Shirt Casual Cotton Short",
+      "price": 3500,
+      "description": "This is our summer best and asthelataic collection and we bring it down!.",
+      "category": "Men's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 11
+      }
+    }
+  ]
+}
