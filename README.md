@@ -1,6 +1,6 @@
-# E-Commerce Website
+# E-Commerce Fully Website
 
-A Ecommerce Website made with React.js Framework.
+A Ecommerce Website made with React.js Framework for frontend and Backend use NodeJs framework NestJs
 
 ## Demo
 
@@ -18,10 +18,10 @@ https://reactjs-ecommerce-app.vercel.app/
 ## Run Locally
 
 Clone the project
-
-```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
-```
+For Backend
+Cd Backend
+npm i 
+npm start
 
 Go to the project directory
 
@@ -46,7 +46,11 @@ Start the server
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [Bootstrap](https://getbootstrap.com/)
-- [Fake Store API](http://localhost:8000/users/)
+- Mobx
+
+##Backend Tech
+Node Js Framework
+Nest Js
 
 ## Contributing
 
@@ -55,4 +59,4 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
+If you have any feedback, please reach out to me [here](https://github.com/M0Abdullah/#contact)
